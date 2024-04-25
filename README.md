@@ -4,8 +4,9 @@
 </p>
 
 <p align="left">
-   <img src="(https://github.com/githubJHEB/challenge-conversor-de-monedas/assets/35204102/94a575b5-c7ec-4935-92a8-a0aa2b5bd6e7">
+   <img src="https://github.com/githubJHEB/challenge-conversor-de-monedas/assets/35204102/b149975f-e772-4ada-9651-7a984b369d0e">
 </p>
+
 
 ##Índice
 
