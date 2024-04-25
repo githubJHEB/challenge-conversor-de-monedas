@@ -5,7 +5,8 @@
 
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](#![logo-currency-converter](https://github.com/githubJHEB/challenge-conversor-de-monedas/assets/35204102/4937d4ce-f210-415b-80a0-f187745bffe0)
+)
 
 *[Índice](#índice)
 
@@ -27,5 +28,4 @@
 
 *[Conclusión](#conclusión)
 
-#Título-e-imagen-de-portada
-JH
+
