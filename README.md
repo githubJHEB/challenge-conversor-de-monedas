@@ -5,7 +5,7 @@
 
 ##Índice
 
-*[Título e imagen de portada](# Imagen)
+*[Título e imagen de portada](#Imagen)
 
 *[Índice](#índice)
 
