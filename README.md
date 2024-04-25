@@ -16,6 +16,8 @@
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 
+- [Api utilizada](#api-utilizada)
+
 - [Como abrir](#como-abrir)
 
 - [Personas Contribuyentes](#personas-contribuyentes)
@@ -52,12 +54,19 @@ Se debe diJgitar un nú que represente el tipo de conversión que necesite. Núm
 :heavy_check_mark: `Funcionalidad 7:` La opción de salir de la aplicación.
 
 ## Tecnologías utilizadas
-
 <p align="justify">
 Java v 17
 </p>
 <p align="justify">
 Affinity Designer
+</p>
+
+## Api utilizada
+<p align="justify">
+Necesaria para obtener los datos de conversión entre pares de monedas:
+</p>
+<p align="justify">
+https://www.exchangerate-api.com
 </p>
 
 ## Como abrir
