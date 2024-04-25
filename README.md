@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge currency converter </h1>
+<h1 align="center">Alura Latam. Challenge currency converter </h1>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
@@ -8,32 +8,32 @@
 </p>
 
 
-##Índice
+### Tópicos
 
-*[Título e imagen de portada](#Imagen)
+- [Título e imagen de portada](#Imagen)
 
-*[Índice](#índice)
+- [Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+- [Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+- [Estado del proyecto](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Contribuyentes](#personas-contribuyentes)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+-  [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+- [Conclusión](#conclusión)
 
 
-##descripción-del-proyecto
+## Descripción del proyecto
 <p align="justify">
  Este proyecto tiene por objetivo formular una posible respuesta al Challenge propuesto por ALURA LATAM, en la ruta de aprendizaje de introducción a la formación en Back End y que plantea la necesidad de proponer una solución para un conversor de monedas de hasta 3 países, haciendo uso de una API provista por un tercero para la consultar el valor actual de cada moneda con respecto a su par.
 
