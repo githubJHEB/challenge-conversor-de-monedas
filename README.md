@@ -73,6 +73,9 @@ https://www.exchangerate-api.com
 <p align="justify">
 Recomendado abrir carpeta con IDEA CE Indellij
 </p>
+<p align="justify">
+Cree una clave desde en la pagina Web de la API utilizada y agregela en la función "solicitudApi()" en la variable "clave"
+</p>
 
 
 ## Personas Contribuyentes
