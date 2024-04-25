@@ -62,7 +62,7 @@ Affinity Designer
 
 ## Como abrir
 <p align="justify">
-Recomendado abrir carpeta con IDEa CE Indellij
+Recomendado abrir carpeta con IDEA CE Indellij
 </p>
 
 
