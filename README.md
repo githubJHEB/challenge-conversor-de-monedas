@@ -16,11 +16,11 @@
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 
+- [Como abrir](#como-abrir)
+
 - [Personas Contribuyentes](#personas-contribuyentes)
 
 - [Licencia](#licencia)
-
-
 
 
 ## Descripción del proyecto
@@ -54,10 +54,15 @@ Se debe diJgitar un nú que represente el tipo de conversión que necesite. Núm
 ## Tecnologías utilizadas
 
 <p align="justify">
-Java
+Java v 17
 </p>
 <p align="justify">
 Affinity Designer
+</p>
+
+## Como abrir
+<p align="justify">
+Recomendado abrir carpeta con IDEa CE Indellij
 </p>
 
 
