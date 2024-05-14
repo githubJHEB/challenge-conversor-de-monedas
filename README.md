@@ -36,7 +36,7 @@
 ## Funcionalidades
 
 <p align="justify">
-Se debe diJgitar un nú que represente el tipo de conversión que necesite. Número entre 1 y 7 
+Se debe digitar un número que represente el tipo de conversión que necesite. Número entre 1 y 7 
 </p>
 
 :heavy_check_mark: `Funcionalidad 1:` Convertir USD ==>> Peso argentino ARS.
